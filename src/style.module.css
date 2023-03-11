@@ -1,0 +1,13 @@
+input {
+  width: 60%;
+  height: 1.5rem;
+  margin-bottom: 1rem;
+}
+.button {
+  width: 6rem;
+  height: 2rem;
+}
+.buttonGroup {
+  display: flex;
+  justify-content: space-between;
+}
